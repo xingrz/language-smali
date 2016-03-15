@@ -1,6 +1,6 @@
 {
   "name": "language-smali",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Atom language support for smali",
   "repository": "https://github.com/xingrz/language-smali",
   "license": "MIT",
